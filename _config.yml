@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://threesyllables.github.io
+title: Operating Manual
+tagline: design is changing, let's figure it out. 
+description: My awesome new site
+paginate: 10
